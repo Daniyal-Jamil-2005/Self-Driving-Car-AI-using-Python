@@ -1,4 +1,4 @@
-# Self-Driving Car AI using Python NEAT Genetic Algorithms Featuring persistent neural network memory.
+<img width="1920" height="1095" alt="image" src="https://github.com/user-attachments/assets/1d3142e3-0790-4e3e-80ab-4c537ebc237c" /># Self-Driving Car AI using Python NEAT Genetic Algorithms Featuring persistent neural network memory.
 An advanced autonomous driving simulation built with Pygame and NEAT. Features persistent neural network memory, real-time CSV analytics, and evolutionary performance visualization using Matplotlib.
 Key Features
 🧠 NeuroEvolution of Augmenting Topologies (NEAT): Implements a genetic algorithm to evolve neural networks that learn driving mechanics from scratch without human intervention.
@@ -12,6 +12,7 @@ Key Features
 ⚡ Optimized Fitness Function: Engineered a custom reward system that prioritizes Speed + Distance while applying time penalties to discourage stagnation and "safe" camping behavior.
 
 🎥 Multimedia HUD: Features a dynamic Heads-Up Display showing real-time telemetry (sensor data, speed, generation count) and a cinematic OpenCV intro sequence.
+
 
 ## 🛠️ Built With
 
