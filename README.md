@@ -1,3 +1,6 @@
+<img width="1024" height="1536" alt="flow chart project" src="https://github.com/user-attachments/assets/5f5853bd-0653-4415-b69c-84a9339d792d" />
+
+
 <img width="1920" height="1095" alt="image" src="https://github.com/user-attachments/assets/1d3142e3-0790-4e3e-80ab-4c537ebc237c" /># Self-Driving Car AI using Python NEAT Genetic Algorithms Featuring persistent neural network memory.
 An advanced autonomous driving simulation built with Pygame and NEAT. Features persistent neural network memory, real-time CSV analytics, and evolutionary performance visualization using Matplotlib.
 Key Features
